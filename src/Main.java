@@ -6,8 +6,8 @@ public class Main {
 
         System.out.println("Dzień Dobry, to zwykły tekst, który robi od razu enter");
         System.out.printf("Teraz %s z %s i przy okazji użycie %s do zrobienia entera\n","przykład","interpolacją", "/n");
-        System.out.print("A tutaj zwykły tekst. ");
-        System.out.print("I drugi zwykły tekst");
+        System.out.print("A tutaj zwykły tekst.");
+        System.out.print(" I drugi zwykły tekst");
 
     }
 }
