@@ -9,7 +9,7 @@ public class Main {
         /* zad1. stworzyć tablicę typu double 5-cio elementową,
         przypisać do niej wartości i wyświetlić */
 
-        int[] tab = {34, 54, 23, 1, 100};
+        double[] tab = {34.14, 54, 23.99, 1, 100.10};
 
         for (int i = 0; i < tab.length; i++)
         {
